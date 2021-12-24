@@ -1,0 +1,12 @@
+javafx.stage.FileChooser
+//for å la brukeren finne/velge filen med labyrinten.
+javafx.scene.layout.GridPane
+//Når brukeren har valgt labyrintfilen som skal åpnes, skal labyrinten vises grafisk. For den
+grafiske representasjonen av labyrinten skal programmet bruke denne klassen
+
+
+Oppgaven:
+Når brukeren klikker på en hvit rute, skal du bruke programmet fra oblig 5 for å finne alle
+løsningene fra denne ruten. Du skal ta én løsning fra beholderen med løsninger, og vise
+denne i labyrinten. Er det flere enn én løsning, kan du vise den første, med informasjon om
+hvor mange løsninger som totalt ble funnet.
